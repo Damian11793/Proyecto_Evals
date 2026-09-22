@@ -21,7 +21,7 @@ st.set_page_config(page_title="Evaluación del agente TechModa", page_icon="🛍
 # ============================================
 st.sidebar.title("Configuración")
 
-api_key = st.sidebar.text_input("GOOGLE_API_KEY", type="password", help="Tu API key de Google AI Studio")
+api_key = st.sidebar.text_input("GOOGLE_API_KEY", type="password", help="AQ.Ab8RN6KoMR0ltqydiXl54XQNSeCVAoC9d2NdlOAing58Zqczmw")
 
 modelo_llm = st.sidebar.selectbox(
     "Modelo LLM evaluador",
