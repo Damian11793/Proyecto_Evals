@@ -1,0 +1,7 @@
+streamlit
+ragas
+datasets
+langchain-google-genai
+langchain-community<0.4.2
+pandas
+plotly
